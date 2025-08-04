@@ -1,7 +1,6 @@
 # 🧲 **MetalloDock**
 **AI-powered molecular docking for metalloproteins**
-<img width="866" height="447" alt="frame" src="https://github.com/user-attachments/assets/8f025e37-1841-4994-ae0c-e1d64ac43445" />
-
+<img width="2031" height="1031" alt="frame" src="https://github.com/user-attachments/assets/fd887a93-6896-42f3-a163-3f03d5ccf015" />
 
 ## 🧬 About
 **MetalloDock** is an AI-driven molecular docking framework tailored for **metalloproteins**. By combining autoregressive spatial decoding with physics-constrained geometric generation, MetalloDock excels at:
