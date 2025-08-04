@@ -1,5 +1,6 @@
 # 🧲 **MetalloDock**
 **AI-powered molecular docking for metalloproteins**
+
 <img width="2031" height="1031" alt="frame" src="https://github.com/user-attachments/assets/fd887a93-6896-42f3-a163-3f03d5ccf015" />
 
 ## 🧬 About
@@ -27,7 +28,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/XXX.git
+git clone https://github.com/ZhangHui-AIDD/MetalloDock.git
 cd MetalloDock
 conda create -n MetalloDock_env python=3.9
 conda activate MetalloDock_env
