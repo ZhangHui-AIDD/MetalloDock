@@ -8,12 +8,12 @@
 
 🔹 Reconstructing **metal coordination geometries**
 🔹 Capturing accurate **metal-ligand interactions**
-🔹 Outperforming existing tools in docking & virtual screening benchmarks
+🔹 Outperforming existing tools in metalloprotein docking & virtual screening benchmarks
 
 💡 **Real-world highlights**:
 
 * Identified novel hits for **prostate-specific membrane antigen (PSMA)**
-* Guided inhibitor design for **acidic polymerase endonuclease (PA)**
+* Guided inhibitor design for **acidic polymerase endonuclease (PA endonuclease)**
 
 ## ⚙️ Key Features
 
@@ -102,7 +102,7 @@ python affinity_scoring.py \
 --out_dir ~/MetalloDock/utils
 ```
 
-### 🧭 Demo 3: Docking with Custom Coordination Atoms
+### 🧭 Demo 3: Docking with Custom Coordination Atom
 
 ```bash
 cd ~/MetalloDock/utils
@@ -116,7 +116,7 @@ python ligand_docking_custom.py \
 
 ### 🧬 Demo 4: Virtual Screening Against Metalloprotein Targets
 
-> Example target: **acidic polymerase endonuclease (PA)**
+> Example target: **acidic polymerase endonuclease (PA endonuclease)**
 > Example dir: `~/MetalloDock/dataset/metallo_vs/PA/`
 
 ```bash
