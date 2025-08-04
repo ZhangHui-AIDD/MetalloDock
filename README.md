@@ -1,7 +1,6 @@
 # 🧲 **MetalloDock**
 **AI-powered molecular docking for metalloproteins**
-
-<img width="416" height="214" alt="image" src="https://github.com/user-attachments/assets/36f7770c-722b-4c67-be7d-afb4b7a0589c" />
+<img width="832" height="428" alt="image" src="https://github.com/user-attachments/assets/36f7770c-722b-4c67-be7d-afb4b7a0589c" />
 
 ## 🧬 About
 **MetalloDock** is an AI-driven molecular docking framework tailored for **metalloproteins**. By combining autoregressive spatial decoding with physics-constrained geometric generation, MetalloDock excels at:
@@ -145,7 +144,3 @@ Feel free to reach out for collaboration or questions!
 
 📧 Email: `22319063@zju.edu.cn`
 📍 Institution: `Zhejiang University`
-
----
-
-是否还需要加入 logo 图、图片示例或 GIF 演示？如果你有这些资源，我可以帮你插入并排版成更专业的文档格式。
